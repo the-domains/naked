@@ -1,0 +1,23 @@
+name: Naked
+favicon: null
+layout_spectrum: 0.6849187852349132
+typography_spectrum: 0.2758712882641703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.23974401014856994
+  lightness: 0.8178993237670511
+  saturation: 0.20563522563315928
+  rhythmicContrast: 0.5886182312387973
+purpose: []
